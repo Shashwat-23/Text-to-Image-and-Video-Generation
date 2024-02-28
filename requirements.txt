@@ -1,0 +1,8 @@
+Requirements
+To run this project, you need the following dependencies:
+
+Python 3.x
+PyTorch
+Transformers
+OpenCV
+Diffusers
